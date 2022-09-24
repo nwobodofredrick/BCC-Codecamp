@@ -1,0 +1,64 @@
+.first-paragraph {
+    color:orangered; 
+    font-size:30px;
+background-color: blue;
+}
+
+.second-paragraph {color:aqua; 
+    font-size:40px;
+    background-color: blueviolet;
+}
+
+#third-paragraph {color:pink; 
+    font-size:35px;
+    background-color: black;
+}
+
+.obi {font-size:25px;
+    background-color: blue;
+}
+
+.ada {font-size:35px;
+    background-color: purple;
+}
+
+.fred {font-size:30px;
+    background-color: gray;
+
+}
+
+
+
+
+.margin-example {
+    background-color: red;
+    font-size:40px;
+    width: 700px;
+    Height: 600px
+}
+
+.blue {
+    background-color: blue;
+    width:1024px; 
+    height:118px
+}
+
+.red {
+    background-color: red;
+    width:1024px; height:40px
+}
+
+.green {
+    background-color: green;
+    width:1024px; height:400px
+}
+
+.yellow {
+    background-color: yellow;
+    width:1024px; height:500px
+}
+
+.purple {
+    background-color:peru;
+    width:1024px; height:40px
+}
